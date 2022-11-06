@@ -149,10 +149,10 @@ function buildUserSelectionForm (users) {
       profileLink.setAttribute('target', '_blank')
       wrapper.appendChild(profileLink)
     }
-    const topics = document.createElement('topics')
-    topics.setAttribute('for', user.account)	
-    topics.textContent = ` - keywords: ${user.keywords}`
-    wrapper.appendChild(topics)
+    // const topics = document.createElement('topics')
+    // topics.setAttribute('for', user.account)	
+    // topics.textContent = ` - keywords: ${user.keywords}`
+    // wrapper.appendChild(topics)
 
     container.appendChild(wrapper)
   }

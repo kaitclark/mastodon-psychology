@@ -138,7 +138,8 @@ function buildUserSelectionForm (users) {
 
     const label = document.createElement('label')
     label.setAttribute('for', user.account)
-    label.textContent = `${user.account} (${user.name}) `
+    // label.textContent = `${user.account} (${user.name}) `
+    label.textContent = `${user.name}: `
 
     wrapper.appendChild(label)
 
@@ -151,7 +152,7 @@ function buildUserSelectionForm (users) {
     }
     const topics = document.createElement('topics')
     topics.setAttribute('for', user.account)	
-    topics.textContent = ` - keywords: ${user.keywords}`
+    topics.textContent = ` - ${user.keywords}`
     wrapper.appendChild(topics)
 
     container.appendChild(wrapper)

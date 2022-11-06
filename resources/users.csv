@@ -39,7 +39,7 @@ account,name,link,keywords,language
 @DrMikeStanton@mstdn.social,Mike Stanton,https://mstdn.social/@DrMikeStanton,stress; health; weight; disparities; AfroLatino,en
 @hugospiers@mastodon.sdf.org,Hugo Spiers,https://mastodon.sdf.org/@hugospiers,cognitive neuroscience; spatial memory; spatial navigation,en
 @PVrticka@mastodon.social,Pascal Vrticka,https://mastodon.social/@PVrticka,fMRI; fNIRS; social; neuroscience; attachment; caregiving,en
-@Perfors@tech.lgbt,Andrew Perfors,https://tech.lgbt/@AndyPerfers,Bayesian models; computational cogsci; information transmission; cultural/languageevolution; language; reasoning,en
+@AndyPerfors@tech.lgbt,Andrew Perfors,https://tech.lgbt/@AndyPerfors,Bayesian models; computational cogsci; information transmission; cultural/languageevolution; language; reasoning,en
 @dionhenare@mastodon.nz,Dion Henare,https://mastodon.nz/@dionhenare,cognitive neuroscience; visual perception; visual attention; open science; EEG; statistical learning,en
 @JoranJongerling@mastodon.social,Joran Jongerling,https://mastodon.social/@JoranJongerling,intensive longitudinal methods; rstats; psychometrics; EMA; experience sampling; open science,en
 @dsquintana@mastodon.social,Dan Quintana,https://mastodon.social/@dsquintana,open science; psychophysiology; psychoneuroendocrinology,en
@@ -153,4 +153,13 @@ account,name,link,keywords,language
 @tiana@fediscience.org,Tiana Simovic,https://fediscience.org/@tiana,psycholinguistics; language processing; reference; eye-tracking,en
 @oscarkjell@mastodon.online,Oscar Kjell,https://mastodon.online/@oscarkjell,wellbeing; mental health; national language processing; rstats; harmony,en
 @utek@fediscience.org,Utek,https://fediscience.org/@utek,personality; health; psychopathology,en
-@mahelmich@
+@mahelmich@mastodon.online,Marieke A. Helmich,https://mastodon.online/@mahelmich,clinical psychology; intensive longitudinal data; experience sampling; dynamical systems; psychopathology,en
+@timothybeechey@fediscience.org,Timothy Beechey,https://fediscience.org/@timothybeechey,hearing science;speech perception,en
+@JTPeterson@academe.world,JTPeterson,https://academe.world/@JTPeterson,behavioural science; rationality; motivation; cognitive psychology; nudge; behaviour change,en
+@MiriForbes@mstdn.social,Miri Forbes,https://mstdn.social/@MiriForbes,psychopathology; stats; nosology; HiTOP; developmental; datavis,en
+@jplougheed@mastodon.social,Jess Lougheed,https://mastodon.social/@jplougheed,emotion regulation; adolescence; parenting; internalizing problems; development,en
+@BenediktEhinger@scholar.social,Benedikt Ehinger,https://scholar.social/@BenediktEhinger,vision; cognition; statistics; EEG; eyetracking,en
+@idoshal@fediscience.org,Ido Shalev,https://fediscience.org/@idoshal,empathy; clinical psychology,en
+@ajamesgreen@mastodon.social,James Green,https://mastodon.social/@ajamesgreen,health psychology; active transport; physical activity; methods,en
+@Iris@scholar.social,Iris van Rooij,https://scholar.social/@Iris,cognitive science; psychology; philosophy; computational complexity; theory,en
+

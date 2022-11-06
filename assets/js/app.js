@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
 /**
  * Fetches the users.csv file from the server and returns the parsed CSV data
  *
- * @return  {Array<{ account: string, link: string, name: string }>}  A multi-dimensional array containing the parsed CSV file contents.
+ * @return  {Array<{ account: string, link: string, name: string, keywords: string }>}  A multi-dimensional array containing the parsed CSV file contents.
  */
 async function getCSVData () {
   // Fetch the CSV file

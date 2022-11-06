@@ -27,7 +27,7 @@ account,name,link,keywords,language
 @Daniel_Heck@mastodon.social,Daniel Heck,https://mastodon.social/@Daniel_Heck,#psychometrics #cognitivemodeling #mathematicalpsychology,en
 @zpneal@mastodon.social,Zachary Neal,https://mastodon.social/@zpneal,#rstats #openscience #networkscience,en
 @ekmiller@mastodon.online,Earl K Miller,https://mastodon.online/@ekmiller,#cognitiveneuroscience,en
-@erinnacland@fediscience.org,Erinn Acland,https://fediscience.org/@erinnacland, ,en
+@erinnacland@fediscience.org,Erinn Acland,https://fediscience.org/@erinnacland,#development #antisocial #emotion,en
 @MattCrump@bbs.crumplab.com,Matt Crump,https://bbs.crumplab.com/@MattCrump,#cognition,en
 @SRHAstraea@mastodon.nz,Stephen Hill,https://mastodon.nz/@SRHAstraea, ,en
 @manlius@mathstodon.xyz,Manlio De Domenico,https://mathstodon.xyz/@manlius,#networkneuroscience #cognitiveneuroscience,en
@@ -102,7 +102,7 @@ account,name,link,keywords,language
 @aidanhorner@fediscience.org,Aidan Horner,https://fediscience.org/@aidanhorner,#memory #forgetting #spatialnavigation #sleep #fMRI #MEG,en
 @esdalmaijer@qoto.org,Edwin Dalmaijer,https://qoto.org/@esdalmaijer,#childdevelopment #socioeconomicstatus #disgust,en
 @shaneomara@mstdn.science,Shane O'Mara,https://mstdn.science/@shaneomara,#learning #memory #behaviouralpolicy #neuroplasticity,en
-@CoralieChevallier@mastodon.top,Coralie Chevallier,https://mastodon.top/@CoralieChevallier,#socialcognition #evolutionaryhumansciences #povertypsychology,en
+@CoralieChevallier@fediscience.org,Coralie Chevallier,https://fediscience.org/@CoralieChevallier,#socialcognition #evolutionaryhumansciences #povertypsychology,en
 @martin_hebart@fediscience.org,Martin Hebart,https://fediscience.org/@martin_hebart,#cognitiveneuroscience #visionscience #neuroimaging #cognitivescience #computationalneuroscience,en
 @altaypsyguy@c.im,AltayPsyGuy,https://c.im/@altaypsyguy,#neuropsychology #clinicalneuropsychology #longcovid,en
 @Cwilsonpsych@mas.to,Christopher Wilson,https://mas.to/@Cwilsonpsych,#rstats,en
@@ -120,7 +120,7 @@ account,name,link,keywords,language
 @maureenritchey@mstdn.social,Maureen Ritchey,https://mstdn.social/@maureenritchey,#cognitiveneuroscience #memory #episodicmemory #emotionalmemory #fMRI,en
 @markhenick@mstdn.social,Mark Henick,https://mstdn.social/@markhenick,#socialneuroscience #cognitivepsychology #learning #memory #mentalhealth,en
 @A_Ferry@mas.to,Alissa Ferry,https://mas.to/@A_Ferry,#languagedevelopment #developmentalpsychology #cognitivedevelopment #cognitiveneuroscience,en
-@b_m_hughes@mastodon.ie,Brian Hughes,https://mastodon.ie/@b_m_hughes,#stress #health #disability #politicalpsych #methods #historyofpsych #replication #pseudoscience,en
+@b_m_hughes@mastodon.ie,Brian Hughes,https://mastodon.ie/@b_m_hughes,#stress #health #disability #politicalpsych #pseudoscience,en
 @julie3dharris@mastodon.scot,Julie Harris,https://mastodon.scot/@julie3dharris,#vision #perception #cognition #pattern #camouflage,en
 @kairuggeri@mas.to,Kai Ruggeri,https://mas.to/@kairuggeri,#behavior #decisionmaking #inequalities,en
 @rei_akaishi@mstdn.social,Rei Akaishi,https://mstdn.social/@rei_akaishi,#decisionscience #neuroscience,en
@@ -129,4 +129,5 @@ account,name,link,keywords,language
 @mcarondiotte@mastodon.social,Mathieu Caron-Diotte,https://mastodon.social/@mcarondiotte,#identity #integration #relativedeprivation #collectivememory,en
 @JeffreyRStevens@fediscience.org,Jeff Stevens,https://fediscience.org/@JeffreyRStevens,#decisionmaking #animalcognition #openscience,en
 @suzyjstyles@toot.community,Suzy J Styles,https://toot.community/@suzyjstyles,#devpsych #multilingualism #neuro #WEIRDbias #reproducibility,en
+@openscience@mastodon.social,Open Science,https://mastodon.social/@openscience,#openscience #publishing #opendata,en
 

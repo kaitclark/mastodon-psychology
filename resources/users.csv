@@ -1,8 +1,8 @@
 account,name,link,keywords,language
 @kaitclark@mastodon.social,Kait Clark,https://mastodon.social/@kaitclark,#cognitiveneuroscience #visualattention #openscience,en
-@adanvers@nerdculture.de,Alex Danvers,https://nerdculture.de/@adanvers,#nokeywords,en
+@adanvers@nerdculture.de,Alex Danvers,https://nerdculture.de/@adanvers,#socialpsychology #personality #sciencereform #openscience #psychmethods,en
 @rdhawkins@mastodon.social,Robert Hawkins,https://mastodon.social/@rdhawkins,#nokeywords,en
-@fparente@mstdn.science,Fabio Parente,https://mstdn.science/@fparente,#nokeywords,en
+@fparente@mstdn.science,Fabio Parente,https://mstdn.science/@fparente,#psycholinguistics #eyetracking #mentalimagery,en
 @KBhealthmovements@activism.openworlds.info,KBhopeful,https://activism.openworlds.info/@KBhealthmovements,#nokeywords,en
 @debruine@tech.lgbt,Lisa DeBruine,https://tech.lgbt/@debruine,#methods #metascience #socialperception,en
 @sharoz@scicomm.xyz,Steve Haroz,https://scicomm.xyz/@sharoz,#nokeywords,en
@@ -41,11 +41,11 @@ account,name,link,keywords,language
 @hugospiers@mastodon.sdf.org,Hugo Spiers,https://mastodon.sdf.org/@hugospiers,#nokeywords,en
 @PVrticka@mastodon.social,Pascal Vrticka,https://mastodon.social/@PVrticka,#fMRI #fNIRS #social #neuroscience #attachment #caregiving,en
 @AndyPerfors@tech.lgbt,Andrew Perfors,https://lgbt.tech/@AndyPerfers,#bayesianmodels #computationalcogsci #informationtransmission #cultural/languageevolution #language #reasoning,en
-@dionhenare@mastodon.nz,Dion Henare,https://mastodon.nz/@dionhenare,#nokeywords,en
+@dionhenare@mastodon.nz,Dion Henare,https://mastodon.nz/@dionhenare,#cognitiveneuroscience #visualperception #visualattention #openscience #eeg #statisticallearning,en
 @JoranJongerling@mastodon.social,Joran Jongerling,https://mastodon.social/@JoranJongerling,#intensivelongitudinalmethods #intensivelongitudinalanalysis #intensivelongitudinaldata #rstats #stats #statistics #dataanalysis #psychometrics #EMA #experiencesampling #bayesian #STAN #science #datascience #openscience,en
 @dsquintana@mastodon.social,Dan Quintana,https://mastodon.social/@dsquintana,#openscience #psychophysiology #psychoneuroendocrinology,en
 @saraincera@mastodon.online,Sara Incera,https://mastodon.online/@saraincera,#nokeywords,en
-@will_ngiam@fediscience.org,William Ngiam,https://fediscience.org/@will_ngiam,#nokeywords,en
+@will_ngiam@fediscience.org,William Ngiam,https://fediscience.org/@will_ngiam,#cognitivepsychology #cognitiveneuroscience #visualattention #visualworkingmemory #openscience,en
 @paolo_papale@scholar.social,Paolo Papale,https://scholar.social/@paolo_papale,#nokeywords,en
 @DrLambchop@mastodon.nz,DrLambchop,https://mastodon.nz/@DrLambchop,#nokeywords,en
 @Gerald@fediscience.org,Gerald,https://fediscience.org/@Gerald,#noykeywords,en
@@ -54,3 +54,26 @@ account,name,link,keywords,language
 @PhilippMusfeld@fediscience.org,Philipp Musfeld,https://fediscience.org/@PhilippMusfeld,#nokeywords,en
 @uma_karma@fediscience.org,Uma Karmarkar,https://fediscience.org/@uma_karma,#nokeywords,en
 @profsimons@mas.to,Dan Simons,https://mas.to/@profsimons,#nokeywords,en
+@garicgymro@toot.wales,Gareth Roberts,https://toot.wales/@garicgymro,#nokeywords,en
+@RyanPBowles@mastodon.social,Ryan P Bowles,https://mastodon.social/@RyanPBowles,#QuantMethods,en
+@jhogeveen@mastodon.online,Jeremy Hogeveen,https://mastodon.online/@jhogeveen,#nokeywords,en
+@borovsky@fediscience.org,Arielle Borovsky,https://fediscience.org/@borovsky,#nokeywords,en
+@alexconley@qoto.org,Alexander Conley,https://qoto.org/@alexconley,#nokeywords,en
+@matti@fosstodon.org,Matti Vuorre,https://fosstodon.org/@matti,#nokeywords,en
+@paolo_palma@mastodon.social,Paolo Palma,https://mastodon.social/@paolo_palma,#socialpsychology #psychology #immigration,en
+@neuro_drqm@mastodon.social,David Quiroga,https://mastodon.social/@neuro_drqm,#cognitiveneuroscience #EEG #MEG #musicscience #imagery,en
+@igutierrez@mastodon.social,Ian Gutierrez,https://mastodon.social/@igutierrez,#military #resilience #clinicalpsychology,en
+@MatthewBJane@mastodon.social,Matthew B. Jané,https://mastodon.social/@MatthewBJane,#metaanalysis #psychometrics,en
+@c_constan@mastodon.social,Christos Constantinidis,https://mastodon.social/@c_constan,#cognitiveneuroscience,en
+@cillianmchugh@mastodon.ie,Cillian McHugh,https://mastodon.ie/@cillianmchugh,#nokeywords,en
+@mjb@sciences.social,Mark Brandt,https://sciences.social/@mjb,#socialpsychology #politicalpsychology #moralpsychology,en
+@sanjaysrivastava@mas.to,Sanjay Srivastava,https://mas.to/@sanjaysrivastava,#nokeywords,en
+@charanranganath@mastodon.social,Charan Ranganath,https://mastodon.social/@charanranganath,#psychology #memory #cognitive #neuroscience,en
+@estebanmonte@fosstodon.org,Esteban Montenegro,https://fosstodon.org/@estebanmonte,#quantitativepsychology,en
+@regretlab@fediscience.org,Amy Summerville,https://fediscience.org/@regretlab,#socialpsychology #socialcognition,en
+@drrodebaugh@fediscience.org,Tom Rodebaugh,https://fediscience.org/@drrodebaugh,#anxiety #tinnitus #psychotherapy #clinicalpsychology #idiographic #longitudinal,en
+@JschleiderPhD@mastodon.social,Jessica Schleider,https://mastodon.social@JschleiderPhD,#psychology #clinical psychology,en
+@vanessabrown@fediscience.org,Vanessa Brown,https://fediscience.org/@vanessabrown,#clinicalpsycyology #computationalmodeling #cognitiveneuroscience,en
+@ProfASwan@mas.to,Alex Swan,https://mas.to/@ProfASwan,#nokeywords,en
+@johnfranchak@mastodon.online,John Franchak,https://mastodon.online/@johnfranchak,#nokeywords,en
+@bjbalas@mstdn.social,Ben Balas,https://mstdn.social/@bjbalas,#facerecognition #visionscience,en

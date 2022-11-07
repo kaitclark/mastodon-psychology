@@ -96,7 +96,7 @@ account,name,link,keywords,language
 @VeraK@mastodon.scot,Vera Kempe,https://mastodon.scot/@VeraK,cognitive science; language evolution; open science,en
 @tracyepton@mastodon.green,Tracy Epton,https://mastodon.green/@tracyepton,health psychology; behaviour change; systematic review,en
 @bakerdh@fediscience.org,Daniel Hart Baker,https://fediscience.org/@bakerdh,psychophysics; EEG; SSVEP; vision; binocular; dichoptic; rstats; open science,en
-@driankeller@fediscience.org,Ian Keller,https://fediscience.org/@driankeller,intervention development; systematic review; process evaluation; behaviour change,en
+@driankellar@fediscience.org,Ian Kellar,https://fediscience.org/@driankellar,intervention development; systematic review; process evaluation; behaviour change,en
 @drtifftaft@nerdculture.de,Tiffany Taft,https://nerdculture.de/@drtifftaft,health psychology; brain/gut connection; medical PTSD,en
 @aidanhorner@fediscience.org,Aidan Horner,https://fediscience.org/@aidanhorner,memory; forgetting; spatial navigation; sleep; fMRI; MEG,en
 @esdalmaijer@mastodon.online,Edwin Dalmaijer,https://mastodon.online/@esdalmaijer,childdevelopment; socio-economic status; disgust,en
@@ -202,4 +202,24 @@ account,name,link,keywords,language
 @nicolegrand@mastodon.social,Nicolas Legrand,https://mastodon.social/@nicolegrand,interoception; computational psychiatry; metacognition; memory; Bayesian modeling,en
 @agoldenberg@mastodon.social,Amit Goldenberg,https://mastodon.social/@agoldenberg,emotions; groups; collectives,en
 @cconrymurray@fediscience.org,Clare Conry-Murray,https://fediscience.org/@cconrymurray,moral development; psychology of gender; open science; research ethics,en
+@DrMeltemYucel@mastodon.social,Meltem Yucel,https://mastodon.social/@DrMeltemYucel,moral development; moral psychology; gossip,en
+@momentumyy@nerdculture.de,Yuki Yamada,https://nerdculture.de/@momentumyy,emotion; visual perception; open science; methodology,en
+@brainclinics@mstdn.science,Martijn Arns,https://mstdn.science/@brainclinics,applied neuroscience; rTMS; EEG; stratified psychiatry; depression,en
+@LPenke@fediscience.org,Lars Penke,https://fediscience.org/@LPenke,evolutionary psychology; hormones; biological personality psychology,en
+@EmmaHendersonRR@scicomm.xyz,Emma Henderson,https://scicomm.xyz/@EmmaHendersonRR,metascience; open research; replications; truth judgments; behaviour change,en
+@enganhifa@mstdn.social,Juan S. Z.,https://mstdn.social/@enganhifa,cross-cultural psychology,en
+@LewendM@mastodon.social,Lewend Mayiwar,https://mastodon.social/@LewendM,emotions and decision making; emotion regulation; risk and uncertainty; psychological distance; social cognition,en
+@Danielhochstrasser@aus.social,Daniel Hochstrasser,https://aus.social/@Danielhochstrasser,prediction; auditory processing; EEG,en
+@Drmowinckels@fosstodon.org,DrMowinckels,https://fosstodon.org/@DrMowinckels,cognitive neuroscience; lifespan changes; rstats; research software engineering,en
+@fiery@nerdculture.de,Fiery Cushman,https://nerdculture.de/@fiery,moral psychology; decision making; causal reasoning; theory of mind; reinforcement learning,en
+@austin@fediscience.org,Austin A. Baker,https://fediscience.org/@austin,social bias; discrimination; perception; philosophy of psychology,en
+@CharlieRioux@fediscience.org,Charlie Rioux,https://fediscience.org/@CharlieRioux,psychopathology; parenting; resilience; perinatality; SEM,en
+@tmb5360@mastodon.social,Tessa Benson-Greenwald,https://mastodon.social/@tmb5360,motivation; social roles; STEM; social psychology,en
+@cnsyoung@fediscience.org,Crystal Steltenpohl,https://fediscience.org/@cnsyoung, community psychology; science reform; mixed methods; program evaluation; health; equity; open science,en
+@ElineVG@fosstodon.org,Eline Van Geert,https://fosstodon.org/@ElineVG,visual perception; aesthetic appreciation; Bayesian statistics; individual differences; open science,en
+@frankgarcea@mstdn.science,Frank Garcea,https://mstdn.science/@frankgarcea,fMRI; lesion symptom mapping; motor function; DTI; ECoG,en
+@JohnZelenski@nerdculture.de,John Zelenski,https://nerdculture.de/@JohnZelenski,personality; sustainability; happiness; nature; open science,en
+@rebekahgelpi@fediscience.org,Rebekah Gelpí,https://fediscience.org/@rebekahgelpi,computational cognitive science; social learning; developmental psychology; belief revision; trust,en
+@mariawimber@fediscience.org,Maria Wimber,https://fediscience.org/@mariawimber,memory; forgetting; neuroscience; experimental psychology,en
+@lace@vis.social,Lace Padilla,https://vis.social/@lace,cognitive science; decision making; data vis,en
 

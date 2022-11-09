@@ -155,7 +155,7 @@ account,name,link,keywords,language
 @utek@fediscience.org,Utek,https://fediscience.org/@utek,personality; health; psychopathology,en
 @mahelmich@mastodon.online,Marieke A. Helmich,https://mastodon.online/@mahelmich,clinical psychology; intensive longitudinal data; experience sampling; dynamical systems; psychopathology,en
 @timothybeechey@fediscience.org,Timothy Beechey,https://fediscience.org/@timothybeechey,hearing science; speech perception,en
-@JTPeterson@academe.world,JTPeterson,https://academe.world/@JTPeterson,behavioural science; rationality; motivation; cognitive psychology; nudge; behaviour change,en
+@JTPeterson@mstdn.science,JTPeterson,https://mstdn.science/@JTPeterson,behavioural science; rationality; motivation; cognitive psychology; nudge; behaviour change,en
 @MiriForbes@mstdn.social,Miri Forbes,https://mstdn.social/@MiriForbes,psychopathology; stats; nosology; HiTOP; developmental; datavis,en
 @jplougheed@mastodon.social,Jess Lougheed,https://mastodon.social/@jplougheed,emotion regulation; adolescence; parenting; internalizing problems; development,en
 @BenediktEhinger@scholar.social,Benedikt Ehinger,https://scholar.social/@BenediktEhinger,vision; cognition; statistics; EEG; eyetracking,en
@@ -259,7 +259,7 @@ account,name,link,keywords,language
 @paulbloom@mas.to,Paul Alexander Bloom,https://mas.to/@paulbloom,development; depression; adolescent; fMRI; EMA,en
 @toddhorowitz@fediscience.org,Todd Horowitz,https://fediscience.org/@toddhorowitz,attention; visual search' medical image perception; cancer,en
 @ryanlei@fediscience.org,Ryan Lei,https://fediscience.org/@ryanlei,social psychology; developmental psychology; intersectionality; cognitive development,en
-@ComparativeCognition@fediscience.org,Comparative Cognition,https://fediscience.org/@ComparativeCognition,animal cognition; developmental psychology; animal behaviour,en
+@ComparativeCognition@fediscience.org,Valerie Kuhlmeier,https://fediscience.org/@ComparativeCognition,animal cognition; developmental psychology; animal behaviour,en
 @BernhardSpitzer@mastodon.online,Bernhard Spitzer,https://mastodon.online/@BernhardSpitzer,working memory; decision making; learning; neuroscience; computational modeling,en
 @connairrussell@mastodon.online,Connair Russell,https://mastodon.online/@connairrussell,religion; causality; cognitive bias; cross-cultural psychology,en
 @Creativity@fediscience.org,Alwin de Rooij,https://fediscience.org/@Creativity,creativity; mental imagery; mind wandering; social robots; HCI,en
@@ -268,5 +268,17 @@ account,name,link,keywords,language
 @Nattonge@fediscence.org,Natasha A Tonge,https://fediscience.org/@Nattonge,clinical psychology,en
 @adwojcik@sciences.social,Adrian Wójcik,https://sciences.social/@adwojcik,social psychology; conservation psychology; collective memory; cross-cultural research,en
 @Bettyslai@mastodon.online,Betty S. Lai,https://mastodon.online/@Bettyslai,disaster; FAIR data,en
+@Schuetze@fediscience.org,Brendan Schuetze,https://fediscience.org/@Schuetze,science of learning; metacognition; rstats,en
+@FlorinaErbeli@mas.to,Florina Erbeli,https://mas.to/@FlorinaErbeli,educational psychology; reading development; dyslexia,en
+@MemphisPhilosopher@c.im,David Miguel Gray,https://c.im/@MemphisPhilosopher,philosophy of psychology; philosophy of psychiatry; schizophrenia; cognition; cognitive science,en
+@flxhlzmstr@scicomm.xyz,Felix Holzmeister,https://scicomm.xyz/@flxhlzmstr,meta-science; research methods; open science; economics; finance,en
+@kav@fediscience.org,Kav Bandara,https://fediscience.org/@kav,consciousness; cognition; cognitive neuroscience; computational neuroscience,en
+@renordquist@akademienl.social,Rebecca Nordquist,https://akademienl.social/@renordquist,animal cognition; farm animal welfare; chicken; pig; sheep; open science; public engagement,en
+@niclas_juper@mastodon.online,Niclas Kuper,https://mastodon.online/@niclas_kuper,personality; individual differences; quantitative methods,en
+@ajquinn@fediscience.org,Andrew Quinn,https://fediscience.org/@ajquinn,cognitive neuroscience; oscillations; open software,en
+@yana@mas.to,Yana Ryakhovskaya,https://mas.to/@yana,personality; well-being; positive psychology; mindfulness,en
+@marklaubach@mastodon.social,Mark Laubach,https://mastodon.social/@marklaubach,neuroscience; prefrontal; learning; decision making; open source,en
+@cmolho@mastodon.online,Catherine Molho,https://mastodon.online/@cmolho,cooperation; emotions; morality; decision making; culture,en
+@dhernaus@fediscience.org,Dennis Hernaus,https://fediscience.org/@dhernaus,cognitive neuroscience; stress; motivation and goal-directed behaviour; neuropsychopharmacology; computational cognitive modelling,en
 
 

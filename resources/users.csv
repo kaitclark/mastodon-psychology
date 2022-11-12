@@ -39,7 +39,7 @@ account,name,link,keywords,language
 @DrMikeStanton@mstdn.social,Mike Stanton,https://mstdn.social/@DrMikeStanton,stress; health; weight; disparities; AfroLatino,en
 @hugospiers@mastodon.sdf.org,Hugo Spiers,https://mastodon.sdf.org/@hugospiers,cognitive neuroscience; spatial memory; spatial navigation,en
 @PVrticka@mastodon.social,Pascal Vrticka,https://mastodon.social/@PVrticka,fMRI; fNIRS; social; neuroscience; attachment; caregiving,en
-@AndyPerfors@tech.lgbt,Andrew Perfors,https://tech.lgbt/@AndyPerfors,Bayesian models; computational cogsci; information transmission; cultural/languageevolution; language; reasoning,en
+@AndyPerfors@tech.lgbt,Andrew Perfors,https://tech.lgbt/@AndyPerfors,Bayesian models; computational cogsci; information transmission; cultural/language evolution; language; reasoning,en
 @dionhenare@mastodon.nz,Dion Henare,https://mastodon.nz/@dionhenare,cognitive neuroscience; visual perception; visual attention; open science; EEG; statistical learning,en
 @JoranJongerling@mastodon.social,Joran Jongerling,https://mastodon.social/@JoranJongerling,intensive longitudinal methods; rstats; psychometrics; EMA; experience sampling; open science,en
 @dsquintana@mastodon.social,Dan Quintana,https://mastodon.social/@dsquintana,open science; psychophysiology; psychoneuroendocrinology,en
@@ -72,7 +72,7 @@ account,name,link,keywords,language
 @regretlab@fediscience.org,Amy Summerville,https://fediscience.org/@regretlab,social psychology; social cognition,en
 @drrodebaugh@fediscience.org,Tom Rodebaugh,https://fediscience.org/@drrodebaugh,anxiety; tinnitus; psychotherapy; clinical psychology; idiographic; longitudinal,en
 @JschleiderPhD@mastodon.social,Jessica Schleider,https://mastodon.social@JschleiderPhD,clinical psychology,en
-@vanessabrown@fediscience.org,Vanessa Brown,https://fediscience.org/@vanessabrown,clinicalpsycyology; computational modeling; cognitive neuroscience,en
+@vanessabrown@fediscience.org,Vanessa Brown,https://fediscience.org/@vanessabrown,clinical psycyology; computational modeling; cognitive neuroscience,en
 @ProfASwan@mas.to,Alex Swan,https://mas.to/@ProfASwan,cognitive psychology; social psychology; human biases,en
 @johnfranchak@fediscience.org,John Franchak,https://fediscience.org/@johnfranchak,perceptual-motor development; eye tracking; mobile sensing; affordances,en
 @bjbalas@mstdn.social,Ben Balas,https://mstdn.social/@bjbalas,face recognition; vision science,en
@@ -99,7 +99,7 @@ account,name,link,keywords,language
 @driankellar@fediscience.org,Ian Kellar,https://fediscience.org/@driankellar,intervention development; systematic review; process evaluation; behaviour change,en
 @drtifftaft@nerdculture.de,Tiffany Taft,https://nerdculture.de/@drtifftaft,health psychology; brain/gut connection; medical PTSD,en
 @aidanhorner@fediscience.org,Aidan Horner,https://fediscience.org/@aidanhorner,memory; forgetting; spatial navigation; sleep; fMRI; MEG,en
-@esdalmaijer@mastodon.online,Edwin Dalmaijer,https://mastodon.online/@esdalmaijer,childdevelopment; socio-economic status; disgust,en
+@esdalmaijer@mastodon.online,Edwin Dalmaijer,https://mastodon.online/@esdalmaijer,child development; socio-economic status; disgust,en
 @shaneomara@mstdn.science,Shane O'Mara,https://mstdn.science/@shaneomara,learning; memory; behavioural policy; neuroplasticity,en
 @CoralieChevallier@fediscience.org,Coralie Chevallier,https://fediscience.org/@CoralieChevallier,social cognition; evolutionary human sciences; poverty psychology,en
 @martin_hebart@fediscience.org,Martin Hebart,https://fediscience.org/@martin_hebart,cognitive neuroscience; vision science; neuroimaging; cognitive science; computational neuroscience,en
@@ -109,7 +109,7 @@ account,name,link,keywords,language
 @meyerthomas@fediscience.org,Thomas Meyer,https://fediscience.org/@meyerthomas,clinical psychology; experimental psychopathology; stress; ptsd; trauma film,en
 @wdebaene@fediscience.org,Wouter De Baene,https://fediscience.org/@wdebaene,cognitive neuroscience,en
 @barbosa@mastodon.social,Joao Barbosa,https://mastodon.science/@barbosa,working memory; decision-making,en
-@b_causal@fosstodon.org,Joseph Bulbulia,https://fosstodon.org/@b_causal,causalinference; quantitative psychology; rstats,en
+@b_causal@fosstodon.org,Joseph Bulbulia,https://fosstodon.org/@b_causal,causal inference; quantitative psychology; rstats,en
 @drbjork@scholar.social,Stefan Björk,https://scholar.social/@drbjork,group psychology; sociocultural psychology; critical psychology; gender studies; feminist psychology; philosophy of mind; phenomenology,en
 @DrSJW@mas.to,Samuel West,https://mas.to/@DrSJW,aggression; personality,en
 @merelvg@fediscience.org,Merel van Goch,https://fediscience.org/@merelvg,interdisciplinarity; learning; cognitive psychology; education,en

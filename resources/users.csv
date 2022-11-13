@@ -109,7 +109,7 @@ account,name,link,keywords,language
 @meyerthomas@fediscience.org,Thomas Meyer,https://fediscience.org/@meyerthomas,clinical psychology; experimental psychopathology; stress; ptsd; trauma film,en
 @wdebaene@fediscience.org,Wouter De Baene,https://fediscience.org/@wdebaene,cognitive neuroscience,en
 @barbosa@mastodon.social,Joao Barbosa,https://mastodon.science/@barbosa,working memory; decision-making,en
-@b_causal@fosstodon.org,Joseph Bulbulia,https://fosstodon.org/@b_causal,causal inference; quantitative psychology; rstats,en
+@joseph_bulbulia@mathstodon.xyz,Joseph Bulbulia,https://mathstodon.xyz/@joseph_bulbulia,causal inference; quantitative psychology; rstats,en
 @drbjork@scholar.social,Stefan Björk,https://scholar.social/@drbjork,group psychology; sociocultural psychology; critical psychology; gender studies; feminist psychology; philosophy of mind; phenomenology,en
 @DrSJW@mas.to,Samuel West,https://mas.to/@DrSJW,aggression; personality,en
 @merelvg@fediscience.org,Merel van Goch,https://fediscience.org/@merelvg,interdisciplinarity; learning; cognitive psychology; education,en
@@ -374,3 +374,17 @@ account,name,link,keywords,language
 @benambridge@mastodon.social,Ben Ambridge,https://mastodon.social/@benambridge,child language; language acquisition; language development; open science; popular science writing; science communication,en
 @itsrainingjen@mastodon.scot,Jen Goff,https://mastodon.scot/@itsrainingjen,HIV; sexual health; participatory action research; person-centred approach; anti-oppressive practice,en
 @tombusey@fediscience.org,Tom Busey,https://fediscience.org/@tombusey,cognitive modeling; Bayesian stats; forensics; rstats; perception,en
+@herebehumans@fediscience.org,Valerie van Mulukom,https://fediscience.org/@herebehumans,cognitive science; imagination; belief; social bonding; evolution,en
+@paulabarea@mas.to,Paula Barea Arroyo,https://mas.to/@paulabarea,executive functions; autism,en
+@jsmnStein@mastodon.online,Jasmin Stein,https://mastodon.online/@jsmnStein,cognitive control; fMRI; stress; open science; psychology,en
+@ymorvan@mastodon.online ,Yannick Morvan,https://mastodon.online/@ymorvan,clinical psychology; student mental health; cbt; network; open science,en
+@olirobinson@mastodon.online,Oliver Robinson,https://mastodon.online/@olirobinson,computational psychiatry; cognitive neuroscience; mental health; anxiety,en
+@sdukehan@med-mastodon.com,Duke Han,https://med-mastodon.com/@sdukehan,cognitive aging; decision making; Alzheimer's Disease; neuropsychology; neuroimaging,en 
+@podarok@mstdn.social,Andrii Podanenko,https://mstdn.social/@podarok,gestalt; dialogue phenomenal psychotherapy,en
+@kiararoth@fediscience.org,Kiara Roth,https://fediscience.org/@kiararoth,social cognition; stereotypes; context effects; social psychology; political identity,en
+@szzhou4@sciences.social,Steven Zhou,https://sciences.social/@szzhou4,organizational psychology; personality; psychometrics; academic-practitioner gap; education,en
+@levels_of@mastodon.social,Melissa Kibbe,https://mastodon.social/@levels_of,cognitive development; cognitive science; mental representations; visual cognition; philosophy,en
+@linksforshrinks@mentalhealth-masto.com,Julie Cohen,https://mentalhealth-masto.com/@linksforshrinks,anxiety, depression, lgbtq, grief, panic,en
+@caseyroark@qoto.org,Casey Roark,https://qoto.org/@caseyroark,category learning; cognition; perception; cognitive neuroscience; computational modeling,en
+@clarisse@mathstodon.xyz,Clarisse Kilboy,https://mathstodon.xyz/@clarisse,counseling psychology; clinical psychology; childhood trauma; NSSI; morality and virtue,en
+@SabinaSrokova@fediscience.org,Sabina Srokova,https://fediscience.org/@SabinaSrokova,cognitive neuroscience of memory and aging,en
